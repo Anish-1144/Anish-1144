@@ -1,74 +1,84 @@
 <div align="center">
-  <h1><img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=300&size=28&duration=3000&pause=1000&color=888780&center=true&vCenter=true&width=435&lines=Anish+Mourya" alt="Anish Mourya" /></h1>
-  <p><code>Full-Stack · Mobile · AI Developer · Indore, M.P</code></p>
-  <br/>
-  <a href="mailto:anishmourya27@gmail.com"><img src="https://img.shields.io/badge/anishmourya27@gmail.com-2C2C2A?style=flat-square&logo=gmail&logoColor=B4B2A9" /></a>
-  &nbsp;
-  <a href="https://github.com/anishmourya27"><img src="https://img.shields.io/badge/GitHub-2C2C2A?style=flat-square&logo=github&logoColor=B4B2A9" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CGPA%208.86%2F10-2C2C2A?style=flat-square&logoColor=B4B2A9" />
+  <img src="https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg"/>
 </div>
 
 <br/>
 
----
+<h2 align="center">Namaste 🙏 I'm Anish Mourya</h2>
 
-&nbsp;&nbsp;`stack`
-
-<div>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Next.js-2C2C2A?style=flat-square&logo=nextdotjs&logoColor=D3D1C7" />
-<img src="https://img.shields.io/badge/React_Native-2C2C2A?style=flat-square&logo=react&logoColor=D3D1C7" />
-<img src="https://img.shields.io/badge/TypeScript-2C2C2A?style=flat-square&logo=typescript&logoColor=D3D1C7" />
-<img src="https://img.shields.io/badge/Node.js-2C2C2A?style=flat-square&logo=nodedotjs&logoColor=D3D1C7" />
-<img src="https://img.shields.io/badge/LangChain-2C2C2A?style=flat-square&logo=langchain&logoColor=D3D1C7" />
-<img src="https://img.shields.io/badge/OpenAI-2C2C2A?style=flat-square&logo=openai&logoColor=D3D1C7" />
-<br/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Tailwind_CSS-2C2C2A?style=flat-square&logo=tailwindcss&logoColor=D3D1C7" />
-<img src="https://img.shields.io/badge/MongoDB-2C2C2A?style=flat-square&logo=mongodb&logoColor=D3D1C7" />
-<img src="https://img.shields.io/badge/Pinecone-2C2C2A?style=flat-square&logoColor=D3D1C7" />
-<img src="https://img.shields.io/badge/Docker-2C2C2A?style=flat-square&logo=docker&logoColor=D3D1C7" />
-<img src="https://img.shields.io/badge/Redis-2C2C2A?style=flat-square&logo=redis&logoColor=D3D1C7" />
-<img src="https://img.shields.io/badge/GraphQL-2C2C2A?style=flat-square&logo=graphql&logoColor=D3D1C7" />
-<img src="https://img.shields.io/badge/FastAPI-2C2C2A?style=flat-square&logo=fastapi&logoColor=D3D1C7" />
-<img src="https://img.shields.io/badge/LangGraph-2C2C2A?style=flat-square&logoColor=D3D1C7" />
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/anishmourya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/anishmourya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:anishmourya27@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
-&nbsp;&nbsp;`experience`
+### About Me
 
-<br/>
+I'm a full-stack developer based in **Indore, M.P.**, currently building production products at **NinexFold**. My work spans web, mobile, and applied AI — from e-commerce platforms and hospitality SaaS to AI-powered lead generation systems. I graduate with a B.Tech in CSE from SVVV in May 2026.
 
-&nbsp;&nbsp;**AI, Full-Stack & Mobile Dev ** &nbsp;·&nbsp; NinexFold &nbsp;·&nbsp; `Feb 2025 – present`
-
-> Built Fusetrix (SaaS), Loadzify (Hotel PMS), ZifyBot (AI lead-gen), Cold Calling & Mailing bots,
-> and Emerald Water's custom e-commerce storefront.
-
-&nbsp;&nbsp;**B.Tech Computer Science & Engineering** &nbsp;·&nbsp; SVVV, Indore &nbsp;·&nbsp; `2022 – 2026`
-
-<br/>
+- 📍 Indore, Madhya Pradesh, India
+- 🎓 B.Tech CSE @ SVVV — May 2026
+- 💼 Currently @ NinexFold
+- 🔭 Interested in: AI/LLM Pipelines, React Native, Production SaaS, Open Source
+- ⚡ I ship features faster than I brew chai
 
 ---
 
+### Languages & Tools I've Placed My Hands On
 
-&nbsp;&nbsp;`certifications`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,python" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,git,github,vscode,vercel" />
+</p>
 
-<br/>
-
-&nbsp;&nbsp;·&nbsp; **Anthropic** — AI Fluency for Students *(via UCC, Ringling College, HEA, National Forum)*
-
-&nbsp;&nbsp;·&nbsp; **NPTEL (IIT Ropar)** — Joy of Computing Using Python
-
-&nbsp;&nbsp;·&nbsp; **NPTEL (IIT Kharagpur)** — Cloud Computing
-
-<br/>
+**AI / ML Stack:** `OpenAI` · `Claude (Anthropic)` · `LangChain` · `LangGraph` · `LlamaIndex` · `RAG` · `Pinecone`  
+**Integrations:** `WhatsApp Meta API` · `Stripe` · `Twilio` · `ElevenLabs` · `Telnyx` · `SendGrid` · `GoHighLevel`
 
 ---
 
+### What I'm Building @ NinexFold
 
-<div align="center">
-  <sub><code>building things that work — and making them work well.</code></sub>
-</div>
+| Project | Description | Impact |
+|---|---|---|
+| **Emerald Water** | E-commerce with real-time 3D bottle customization (Three.js), Konva.js label editor, Stripe + print-ready PDF pipeline | **+25% online orders** |
+| **NinexHoomie** | Full-scale hospitality SaaS PMS — web dashboards + full Expo mobile app with Firebase push, WhatsApp OTP check-in | End-to-end |
+| **Loadzify** | Airbnb-style React Native property management — booking calendar, automated billing, inventory tracking | **-35% manual overhead** |
+| **ZifyBot** | AI lead-gen SaaS (v1: email drip, v2: voice agent via Twilio + ElevenLabs, v3: Telnyx + domain knowledge base) | **+30% call-to-meeting** |
+| **Lumaire UNCover** | Clinical assessment funnel — branching logic, SSR-safe session restore, real-time GoHighLevel CRM sync | Reduced funnel drop-off |
+
+---
+
+### Personal Projects
+
+**AI Developer Portfolio** — `Next.js · React Three Fiber · Rapier · Groq/Llama · MongoDB`  
+AI chat interface with LLM JSON section-routing, physics hero scene, IP rate limiting, and prompt-injection filtering.
+
+**TurfOS** — `Next.js · TypeScript · Node.js · Stripe · MongoDB`  
+Facility booking platform with Stripe Payment Intents, OTP check-in, parent–child conflict engine, and dynamic pricing.
+
+**DotYear** — `React Native 0.84 · Kotlin · Skia · Zustand`  
+Android wallpaper app rendering 365 dynamic dots via Shopify Skia at 60fps with native WallpaperManager API.
+
+**Published UI Components** — [21st.dev](https://21st.dev)  
+Production-grade React + TypeScript + Tailwind components — publicly discoverable, installable via CLI.
+
+---
+
+### Certifications
+
+- **Anthropic** — AI Fluency for Students *(via UCC, Ringling College, HEA, National Forum)*
+- **Anthropic** — Claude Code Certificate
+- **NPTEL** — Joy of Computing Using Python *(IIT Ropar)*
+- **NPTEL** — Cloud Computing *(IIT Kharagpur)*
+
+---
+
+<p align="center">Made with care from Indore 🇮🇳</p>
