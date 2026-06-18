@@ -4,7 +4,7 @@
 
 <br/>
 
-<h2 align="center">Namaste 🙏 I'm Anish Mourya</h2>
+<h2 align="center">Hi , I'm Anish Mourya</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/anishmourya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -19,24 +19,24 @@
 
 I'm a full-stack developer based in **Indore, M.P.**, currently building production products at **NinexFold**. My work spans web, mobile, and applied AI — from e-commerce platforms and hospitality SaaS to AI-powered lead generation systems. I graduate with a B.Tech in CSE from SVVV in May 2026.
 
-- 📍 Indore, Madhya Pradesh, India
-- 🎓 B.Tech CSE @ SVVV — May 2026
-- 💼 Currently @ NinexFold
-- 🔭 Interested in: AI/LLM Pipelines, React Native, Production SaaS, Open Source
-- ⚡ I ship features faster than I brew chai
+-  Indore, Madhya Pradesh, India
+-  B.Tech CSE @ SVVV — May 2026
+-  Currently @ NinexFold
+-  Interested in: AI/LLM Pipelines, React Native, Production SaaS, Open Source
+-  I ship features faster than I brew chai
 
 ---
 
 ### Languages & Tools I've Placed My Hands On
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,motion,gsap" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,python," />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,vercel,postman" />
 </p>
 
 **AI / ML Stack:** `OpenAI` · `Claude (Anthropic)` · `LangChain` · `LangGraph` · `LlamaIndex` · `RAG` · `Pinecone`  
@@ -61,7 +61,7 @@ I'm a full-stack developer based in **Indore, M.P.**, currently building product
 **AI Developer Portfolio** — `Next.js · React Three Fiber · Rapier · Groq/Llama · MongoDB`  
 AI chat interface with LLM JSON section-routing, physics hero scene, IP rate limiting, and prompt-injection filtering.
 
-**TurfOS** — `Next.js · TypeScript · Node.js · Stripe · MongoDB`  
+**Turf-booking** — `Next.js · TypeScript · Node.js · Stripe · MongoDB`  
 Facility booking platform with Stripe Payment Intents, OTP check-in, parent–child conflict engine, and dynamic pricing.
 
 **DotYear** — `React Native 0.84 · Kotlin · Skia · Zustand`  
