@@ -46,13 +46,18 @@ I'm a full-stack developer based in **Indore, M.P.**, currently building product
 
 ### What I'm Building @ NinexFold
 
-| Project | Description | Impact |
-|---|---|---|
-| **Emerald Water** | E-commerce with real-time 3D bottle customization (Three.js), Konva.js label editor, Stripe + print-ready PDF pipeline | **+25% online orders** |
-| **NinexHoomie** | Full-scale hospitality SaaS PMS — web dashboards + full Expo mobile app with Firebase push, WhatsApp OTP check-in | End-to-end |
-| **Loadzify** | Airbnb-style React Native property management — booking calendar, automated billing, inventory tracking | **-35% manual overhead** |
-| **ZifyBot** | AI lead-gen SaaS (v1: email drip, v2: voice agent via Twilio + ElevenLabs, v3: Telnyx + domain knowledge base) | **+30% call-to-meeting** |
-| **Lumaire UNCover** | Clinical assessment funnel — branching logic, SSR-safe session restore, real-time GoHighLevel CRM sync | Reduced funnel drop-off |
+### What I'm Building @ NinexFold
+
+| Project                                                    | Description                                                                                                            | Impact                   |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| **[Emerald Water](https://design.emeraldwater.ca/)**       | E-commerce with real-time 3D bottle customization (Three.js), Konva.js label editor, Stripe + print-ready PDF pipeline | **+25% online orders**   |
+| **[NinexHoomie](https://www.ninexhoomie.com/)**            | Full-scale hospitality SaaS PMS — web dashboards + full Expo mobile app with Firebase push, WhatsApp OTP check-in      | End-to-end               |
+| **[Lodgezify](https://lodgezify.com/booking-engine)**      | Airbnb-style React Native property management — booking calendar, automated billing, inventory tracking                | **-35% manual overhead** |
+| **[ZifyBot](https://zifybot.ai/)**                         | AI lead-gen SaaS (v1: email drip, v2: voice agent via Twilio + ElevenLabs, v3: Telnyx + domain knowledge base)         | **+30% call-to-meeting** |
+| **[Lumaire UNCover](https://decode.lumairemedicine.com/)** | Clinical assessment funnel — branching logic, SSR-safe session restore, real-time GoHighLevel CRM sync                 | Reduced funnel drop-off  |
+
+---
+
 
 ---
 
