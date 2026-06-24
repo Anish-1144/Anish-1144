@@ -80,7 +80,7 @@ Production-grade React + TypeScript + Tailwind components — publicly discovera
 ### Certifications
 
 - **Anthropic** — AI Fluency for Students *(via UCC, Ringling College, HEA, National Forum)*
-- **Anthropic** — Claude Code Certificate
+- **fullstack developer** — Histesh Choudhary
 - **NPTEL** — Joy of Computing Using Python *(IIT Ropar)*
 - **NPTEL** — Cloud Computing *(IIT Kharagpur)*
 
