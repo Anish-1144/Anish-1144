@@ -44,7 +44,7 @@ I'm a full-stack developer based in **Indore, M.P.**, currently building product
 
 ---
 
-### What I'm Building @ NinexFold
+
 
 ### What I'm Building @ NinexFold
 
